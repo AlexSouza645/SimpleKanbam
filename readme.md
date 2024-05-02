@@ -1,5 +1,7 @@
+
+<img src="/Sem título.png" alt="Drag and drop illustration">
+
 Leia-me: Projeto Drag-and-Drop em HTML e JavaScript
-<img src="/Sem título.png" alt="Drag and drop illustration" width="200" height="150">
 
 
 Este repositório contém um projeto de demonstração de drag-and-drop em HTML e JavaScript. O objetivo é ilustrar como implementar funcionalidade básica de arrastar e soltar elementos em uma página web.
